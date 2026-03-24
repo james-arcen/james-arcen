@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=james-arcen.james-arcen&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm James from Iloilo City<br><br>I am currently developing a C++ library for the MICS-5524 gas sensor, specifically optimized for the ESP32-S3. This project focuses on creating a robust interface for environmental sensing and low-level data acquisition.<br><br>📚 I’m currently learning<br>As a Computer Science major, I am focusing on Embedded Systems and Microcontrollers, with a particular emphasis on STM32 and ESP32 architectures. I’m fascinated by the intersection of hardware and software and how to optimize performance on resource-constrained devices.<br><br>⚡ In my free time I<br>When I’m not coding, I’m usually in a match—I mainly play Valorant and League of Legends.</p>
 
 ###
 
@@ -41,5 +47,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=james-arcen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
