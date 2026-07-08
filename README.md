@@ -26,8 +26,19 @@
 
 ###
 
-<p align="left">I'm James from Iloilo City<br><br>I am currently developing a C++ library for the MICS-5524 gas sensor, specifically optimized for the ESP32-S3. This project focuses on creating a robust interface for environmental sensing and low-level data acquisition.<br><br>📚 I’m currently learning<br>As a Computer Science major, I am focusing on Embedded Systems and Microcontrollers, with a particular emphasis on STM32 and ESP32 architectures. I’m fascinated by the intersection of hardware and software and how to optimize performance on resource-constrained devices.<br><br>⚡ In my free time I<br>When I’m not coding, I’m usually in a match—I mainly play Valorant and League of Legends.</p>
-
+<p align="left">
+  <strong>I'm James from Iloilo City</strong><br><br>
+  As a Computer Science major, I focus on the intersection of hardware and software, building interfaces and optimizing performance for resource-constrained devices.<br><br>
+  🏆 <strong>Completed Projects</strong><br>
+  • <strong>MiCS-5524 Interface:</strong> Completed a project for the MiCS-5524 gas sensor optimized for the ESP32-S3, utilizing existing libraries to handle environmental sensing and data acquisition.<br><br>
+  🛠 <strong>Currently Working On</strong><br>
+  • <strong>LoRa P2P Network:</strong> Building an off-grid communication system using LoRa modules and ESP32 boards.<br>
+  • <strong>CHIP-8 CPU Emulator:</strong> Developing a custom emulator in C, focusing on manual memory management and hardware-level instruction decoding.<br><br>
+  📚 <strong>Currently Learning</strong><br>
+  I am focusing on Embedded Systems and Microcontrollers, with a particular emphasis on <strong>STM32</strong> and <strong>ESP32</strong> architectures, alongside deeper <strong>Systems Architecture</strong> concepts.<br><br>
+  ⚡ <strong>In my free time</strong><br>
+  When I’m not coding, I’m usually in a match—I mainly play Valorant and League of Legends.
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
