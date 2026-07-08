@@ -27,7 +27,6 @@
 ###
 
 <p align="left">
-  <strong>I'm James from Iloilo City</strong><br><br>
   As a Computer Science major, I focus on the intersection of hardware and software, building interfaces and optimizing performance for resource-constrained devices.<br><br>
   🏆 <strong>Completed Projects</strong><br>
   • <strong>MiCS-5524 Interface:</strong> Completed a project for the MiCS-5524 gas sensor optimized for the ESP32-S3, utilizing existing libraries to handle environmental sensing and data acquisition.<br><br>
