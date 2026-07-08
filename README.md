@@ -38,7 +38,6 @@
   ⚡ <strong>In my free time</strong><br>
   When I’m not coding, I’m usually in a match—I mainly play Valorant and League of Legends.
 </p>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
